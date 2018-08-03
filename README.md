@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Imgs/Bioinformatics_Logo.png" alt="Bioinf Logo"/>
+</p>
+
+***
 # A Bioinformatics Crash Course.
 
 Learn to program and carry out Bioinformatics-related work in **two** short lessons. This course will provide the background in Biology and Computer Science that is necessary in order to use and create tools capable of modeling, analyzing, and visualizing biological data. In each lesson, you will be using and creating a series of tools that are common to employees in the ever-growing fields of Pharmacy and Biotechnology. 
