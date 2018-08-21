@@ -16,7 +16,7 @@ Learn to program and carry out Bioinformatics-related work in **two** short less
 - [Lesson 2: Sequence analysis - DNA, RNA, and Proteins](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/blob/master/Lesson2_SequenceAnalysis.ipynb)
 
 ## Community Projects.
-- [Project 1: Homology-based Essential Gene Discovery (HEGD) tool]()
+- [Project 1: Homology-based Essential Gene Discovery (HEGD) tool](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/tree/master/CommunityProject1)
 
 ## Want to learn faster? Use Jupyter Notebook!
 Download [Anaconda](https://www.anaconda.com/download/), a Python platform that already includes many useful libraries, as well as the Spyder Python IDE. Downloading Anaconda is currently the only way to gain local access to Jupyter Notebook.
