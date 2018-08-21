@@ -11,7 +11,7 @@ Learn to program and carry out Bioinformatics-related work in **two** short less
 
 ## Lessons.
 
-- [Lesson 1: An Introduction to Python](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/blob/master/Python%20for%20Beginners.ipynb)
+- [Lesson 1: An Introduction to Python](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/blob/master/Lesson1_Python%20for%20Beginners.ipynb)
 
 - [Lesson 2: Sequence analysis - DNA, RNA, and Proteins](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/blob/master/Lesson2_SequenceAnalysis.ipynb)
 
