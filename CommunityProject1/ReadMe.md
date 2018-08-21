@@ -140,7 +140,7 @@ Support Vector Machines (SVM) are one of the most widely used machine learning a
 ![Alt Text](../Imgs/SVM_Concept.png)
 > **Figure 12: Training VS Classifying/Testing in a two-dimensional SVM.** SVM models are first trained using a training dataset that contains two features (value columns) or more and a class label (+ or -). Each sample (row) contributes to the identification of an optimal hyperplane, which creates the decision boundaries that dictate classification results. Trained models can be tested using testing datasets that share the same features, but not the same samples. Testing sets also possess known labels. When testing trained models, each testing sample is assigned a label based on the decision boundaries established throughout training; assigned labels are compared to known labels and an accuracy score is used to rank the performance of the model. Once a satisfactory threshold is reached, trained models can be used to infer the labels of unclassified datasets. 
 
-We will train Support Vector Machine using multiple model-subsets derived from the N models created from each reference species, and we will test each model sub-set through cross-validation in order to keep the most accurate one (see **Figure 13** below).
+We will train Support Vector Machines using multiple model-subsets derived from the N models created from each reference species, and we will test each model sub-set through cross-validation in order to keep the most accurate one (see **Figure 13** below).
 
 - **Feature Ranking.**
 ![Alt Text](../Imgs/FeatureRanking.png)
