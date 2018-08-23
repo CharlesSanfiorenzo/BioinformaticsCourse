@@ -18,18 +18,23 @@ Learn to program and carry out Bioinformatics-related work in **two** short less
 ## Community Projects.
 - [Project 1: Homology-based Essential Gene Discovery (HEGD) tool](https://github.com/CharlesSanfiorenzo/BioinformaticsCourse/tree/master/CommunityProject1)
 
+### <p style="text-align: center;"> **All community projects are carried out and monitored through the [bioXJMB Slack group](https://join.slack.com/t/bioxjmb/shared_invite/enQtNDIwNDM0MDA2NzkwLTZjMWFkYmI5YjBjZmVlYmM0MDAzNzYyMGUyNDAwNmNjN2JjYzVlMjRiNzE1NGNhYTMzOWY5MzU2MGYwNmFhYjE). Join to start coding!** </p>
+
+
 ## Want to learn faster? Use Jupyter Notebook!
 Download [Anaconda](https://www.anaconda.com/download/), a Python platform that already includes many useful libraries, as well as the Spyder Python IDE. Downloading Anaconda is currently the only way to gain local access to Jupyter Notebook.
 
 After installing Anaconda, simply open the terminal/powerl shell in any of the following OS:
 - **Windows 8+:** WindowsKey + x + c (this will open a small window with a few options) -> Click on "Windows PowerShell"
-- **Mac:** CMD/Ctrl + Space (this will open spotlight search) -> Type in "terminal" and open.
+- **Mac:** CMD + Space (this will open spotlight search) -> Type in "terminal" and open.
 - **Ubuntu:** ctrl + alt + t
 
 Once the terminal/power shell is open, type the following line to run Jupyter:
 ~~~
-jupyter notebook
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e1
 ~~~
+Then, simply download and unzip this directory in order to navigate its content with Jupyter Notebook (see image below).
+![Alt Text](./Imgs/Jupyter_Use.png)
 
 ## Additional lessons (COMING SOON).
 
